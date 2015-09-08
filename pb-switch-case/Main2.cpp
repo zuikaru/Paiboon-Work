@@ -1,0 +1,118 @@
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+
+int main(){
+	int number = 0;
+	printf("Enter your score => ");
+	scanf("%d", &number);
+	switch (number)
+	{
+	case 100: printf("grade = 4\n"); break;
+	case 99: printf("grade = 4\n"); break;
+	case 98: printf("grade = 4\n"); break;
+	case 97: printf("grade = 4\n"); break;
+	case 96: printf("grade = 4\n"); break;
+	case 95: printf("grade = 4\n"); break;
+	case 94: printf("grade = 4\n"); break;
+	case 93: printf("grade = 4\n"); break;
+	case 92: printf("grade = 4\n"); break;
+	case 91: printf("grade = 4\n"); break;
+	case 90: printf("grade = 4\n"); break;
+	case 89: printf("grade = 4\n"); break;
+	case 88: printf("grade = 4\n"); break;
+	case 87: printf("grade = 4\n"); break;
+	case 86: printf("grade = 4\n"); break;
+	case 85: printf("grade = 4\n"); break;
+	case 84: printf("grade = 4\n"); break;
+	case 83: printf("grade = 4\n"); break;
+	case 82: printf("grade = 4\n"); break;
+	case 81: printf("grade = 4\n"); break;
+	case 80: printf("grade = 4\n"); break;
+	case 79: printf("grade = 3\n"); break;
+	case 78: printf("grade = 3\n"); break;
+	case 77: printf("grade = 3\n"); break;
+	case 76: printf("grade = 3\n"); break;
+	case 75: printf("grade = 3\n"); break;
+	case 74: printf("grade = 3\n"); break;
+	case 73: printf("grade = 3\n"); break;
+	case 72: printf("grade = 3\n"); break;
+	case 71: printf("grade = 3\n"); break;
+	case 70: printf("grade = 3\n"); break;
+	case 69: printf("grade = 2\n"); break;
+	case 68: printf("grade = 2\n"); break;
+	case 67: printf("grade = 2\n"); break;
+	case 66: printf("grade = 2\n"); break;
+	case 65: printf("grade = 2\n"); break;
+	case 64: printf("grade = 2\n"); break;
+	case 63: printf("grade = 2\n"); break;
+	case 62: printf("grade = 2\n"); break;
+	case 61: printf("grade = 2\n"); break;
+	case 60: printf("grade = 2\n"); break;
+	case 59: printf("grade = 1\n"); break;
+	case 58: printf("grade = 1\n"); break;
+	case 57: printf("grade = 1\n"); break;
+	case 56: printf("grade = 1\n"); break;
+	case 55: printf("grade = 1\n"); break;
+	case 54: printf("grade = 1\n"); break;
+	case 53: printf("grade = 1\n"); break;
+	case 52: printf("grade = 1\n"); break;
+	case 51: printf("grade = 1\n"); break;
+	case 50: printf("grade = 1\n"); break;
+	case 49: printf("grade = 0\n"); break;
+	case 48: printf("grade = 0\n"); break;
+	case 47: printf("grade = 0\n"); break;
+	case 46: printf("grade = 0\n"); break;
+	case 45: printf("grade = 0\n"); break;
+	case 44: printf("grade = 0\n"); break;
+	case 43: printf("grade = 0\n"); break;
+	case 42: printf("grade = 0\n"); break;
+	case 41: printf("grade = 0\n"); break;
+	case 40: printf("grade = 0\n"); break;
+	case 39: printf("grade = 0\n"); break;
+	case 38: printf("grade = 0\n"); break;
+	case 37: printf("grade = 0\n"); break;
+	case 36: printf("grade = 0\n"); break;
+	case 35: printf("grade = 0\n"); break;
+	case 34: printf("grade = 0\n"); break;
+	case 33: printf("grade = 0\n"); break;
+	case 32: printf("grade = 0\n"); break;
+	case 31: printf("grade = 0\n"); break;
+	case 30: printf("grade = 0\n"); break;
+	case 29: printf("grade = 0\n"); break;
+	case 28: printf("grade = 0\n"); break;
+	case 27: printf("grade = 0\n"); break;
+	case 26: printf("grade = 0\n"); break;
+	case 25: printf("grade = 0\n"); break;
+	case 24: printf("grade = 0\n"); break;
+	case 23: printf("grade = 0\n"); break;
+	case 22: printf("grade = 0\n"); break;
+	case 21: printf("grade = 0\n"); break;
+	case 20: printf("grade = 0\n"); break;
+	case 19: printf("grade = 0\n"); break;
+	case 18: printf("grade = 0\n"); break;
+	case 17: printf("grade = 0\n"); break;
+	case 16: printf("grade = 0\n"); break;
+	case 15: printf("grade = 0\n"); break;
+	case 14: printf("grade = 0\n"); break;
+	case 13: printf("grade = 0\n"); break;
+	case 12: printf("grade = 0\n"); break;
+	case 11: printf("grade = 0\n"); break;
+	case 10: printf("grade = 0\n"); break;
+	case 9: printf("grade = 0\n"); break;
+	case 8: printf("grade = 0\n"); break;
+	case 7: printf("grade = 0\n"); break;
+	case 6: printf("grade = 0\n"); break;
+	case 5: printf("grade = 0\n"); break;
+	case 4: printf("grade = 0\n"); break;
+	case 3: printf("grade = 0\n"); break;
+	case 2: printf("grade = 0\n"); break;
+	case 1: printf("grade = 0\n"); break;
+	case 0: printf("grade = 0\n"); break;
+	default: printf("Score is out of 0-100"); break;
+	}
+	_getch();
+	system("cls");
+	main();
+}
+
