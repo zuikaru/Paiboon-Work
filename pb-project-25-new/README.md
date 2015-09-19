@@ -5,6 +5,6 @@ If you don't sure how to do this, follow these steps.
 Steps
 ====
 1. At the toolbar, go to Tools and then Compiler options.
-2. At the General tab, tick "Add the following commands when calling the compiler" then fill "-std=c++11" (without double quotes) in the textarea. 
+2. At the General tab, tick "Add the following commands when calling the compiler" then fill "-std=c++11" (without double quotes) in the text area. 
 3. Press OK button.
 4. You can now compile this file with Dev-C++.
