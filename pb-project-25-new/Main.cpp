@@ -279,7 +279,7 @@ void setTextColor(int color){
 
 // General function implementation
 void moveTo(int x, int y){
-	COORD cord = { x, y };
+	COORD cord = { (short)x, (short)y };
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), cord);
 }
 
